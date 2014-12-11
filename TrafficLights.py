@@ -1,6 +1,6 @@
 ''' ODale Cotterell
     Raspberry GPIO - Project
-    Street light system RYG (two)
+    Traffic light system RYG (two)
 '''
 
 import RPi.GPIO as GPIO
